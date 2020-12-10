@@ -1,0 +1,17 @@
+/**
+ * Google Fonts Demo
+ **/
+
+/* Add in the Google Fonts of your choice */
+p.thought1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: royalblue;
+}
+p.thought2 {
+    font-family: cursive;
+    color: tomato;
+}
+p.thought3 {
+    font-family: 'Nerko One';
+    color: springgreen;
+}
